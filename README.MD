@@ -16,7 +16,7 @@ Coding a media player for studying purposes.
 - [ ] Video uploader
 - [ ] Media Player
 
-### Goals
+## Goals
 
 - Learn websockets 
 - Learn media storage best practices
